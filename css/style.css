@@ -2,48 +2,40 @@ body, html {
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: georgia, serif;
     background-color: #636af4;
     color: #333;
-    line-height: 1.6;
+    line-height: 1.75;
 }
-
 h1 {
     text-align: center;
     color: #333;
-    margin-top: 20px;
+    margin-top: 25px;
 }
-
 #planets {
     border-collapse: collapse;
-    width: 80%;
+    width: 65%;
     margin: 25px auto;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
-
 #planets th {
     background-color: #fcc447;
     color: white;
     padding: 10px;
     text-align: left;
 }
-
 #planets td {
     padding: 10px;
     border-bottom: 1px solid #ddd;
 }
-
 #planets img {
     width: 50px;
     height: auto;
 }
-
 #planets td:first-child {
     font-weight: bold;
 }
-
 #planets tr:nth-child(even) {
     background-color: #000000;
 }
