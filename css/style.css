@@ -5,7 +5,7 @@ body, html {
 
 body {
     font-family: georgia, serif;
-    background-color: #0066ff;
+    background-color: #636af4;
     color: #333;
     line-height: 1.6;
 }
@@ -24,7 +24,7 @@ h1 {
 }
 
 #planets th {
-    background-color: #0066ff;
+    background-color: #fcc447;
     color: white;
     padding: 10px;
     text-align: left;
@@ -45,5 +45,5 @@ h1 {
 }
 
 #planets tr:nth-child(even) {
-    background-color: #ffa400;
+    background-color: #000000;
 }
