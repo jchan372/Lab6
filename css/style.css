@@ -5,12 +5,12 @@ body, html {
 body {
     font-family: georgia, serif;
     background-color: #636af4;
-    color: #333;
+    color: #000000;
     line-height: 1.75;
 }
 h1 {
     text-align: center;
-    color: #333;
+    color: #000000;
     margin-top: 25px;
 }
 #planets {
@@ -27,7 +27,7 @@ h1 {
 }
 #planets td {
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #000000;
 }
 #planets img {
     width: 50px;
