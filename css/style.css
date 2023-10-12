@@ -4,13 +4,13 @@ body, html {
 }
 body {
     font-family: georgia, serif;
-    background-color: #636af4;
-    color: #000000;
+    background-color: #3392d8;
+    color: #cdcdcd;
     line-height: 1.75;
 }
 h1 {
     text-align: center;
-    color: #000000;
+    color: #cdcdcd;
     margin-top: 25px;
 }
 #planets {
@@ -20,14 +20,14 @@ h1 {
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
 #planets th {
-    background-color: #000000;
+    background-color: #e32525;
     color: white;
-    padding: 10px;
+    padding: 12px;
     text-align: left;
 }
 #planets td {
     padding: 10px;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #cdcdcd;
 }
 #planets img {
     width: 50px;
