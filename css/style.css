@@ -4,8 +4,8 @@ body, html {
 }
 body {
     font-family: georgia, serif;
-    background-color: #3392d8;
-    color: #cdcdcd;
+    background-color: #b2d7f3;
+    color: #3a323a;
     line-height: 1.75;
 }
 h1 {
@@ -20,7 +20,7 @@ h1 {
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
 #planets th {
-    background-color: #e32525;
+    background-color: #9a1f1f;
     color: white;
     padding: 12px;
     text-align: left;
@@ -38,5 +38,4 @@ h1 {
 }
 #planets tr:nth-child(even) {
     background-color: #fcc447;
-    color: 484242;
 }
